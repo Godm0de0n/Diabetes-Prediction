@@ -34,7 +34,3 @@ You can download the dataset from the **UCI Machine Learning Repository**: [PIMA
 
 ## Contribution
 Feel free to contribute by opening an issue or submitting a pull request.
-
-## License
-This project is licensed under the MIT License.
-
